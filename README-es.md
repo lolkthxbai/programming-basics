@@ -2,7 +2,7 @@
 
 Aquí intento explicar algunos conceptos básicos comunes de los lenguajes de programación modernos para ayudarte a entender mejor qué significa «programar» o escribir «code».
 
-## ¿Qué es 'codigo'?
+## ¿Qué es el 'codigo'?
 
 Lo que llamamos «código» son las palabras escritas que utilizamos para comunicarnos con las computadoras. Por lo general, son instrucciones que la computadora debe ejecutar o «run». Cuando escribimos código con una estructura organizada que se puede ejecutar, lo llamamos un «programa» o una «app» —abreviatura de application—.
 
